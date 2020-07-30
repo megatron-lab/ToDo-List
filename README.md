@@ -6,5 +6,5 @@ Make a list of ToDos for the day. You can create, delete, or cross-out a ToDo.
 
 ## Demo
 
-Download and click index.html to use or click [here](https://megatron-lab.github.io/RGB-Color-Game/)
+Download and click index.html to use or click [here](https://megatron-lab.github.io/ToDo-List/)
 
