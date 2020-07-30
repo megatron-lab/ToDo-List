@@ -1,5 +1,5 @@
 # ToDo List App
-> A game where users can guess colors based on an RGB value.
+> An app where users can conveniently create their todo list for the day and cross out todos as they complete them.
 
 ## Description
 Make a list of ToDos for the day. You can create, delete, or cross-out a ToDo.
